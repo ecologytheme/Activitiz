@@ -1,0 +1,53 @@
+/* -----------------------
+COLOR : MAGENDA 
+COLOR CODE: #f50079
+------------------------- */
+.navbar-inverse .navbar-nav > .current > a, .navbar-inverse .navbar-nav > .current > a:hover, .navbar-inverse .navbar-nav > .current > a:focus {
+	color: #f50079;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #f50079;
+}
+#intro-button .standard-btn{
+	border: 2px solid #f50079;	
+}
+.hvr-sweep-to-right:before{
+	background: #f50079;
+}
+.about-icon{
+	background: #f50079;
+}
+.progress-bar{
+	background-color: #f50079;
+}
+.donation-amount{
+	color: #f50079;
+}
+.comment-icon{
+	background: #f50079;
+}
+.filter:hover, .filter.selected {
+	background: #f50079;
+}
+.mega-hovertitle hr{
+	border-color: #f50079 -moz-use-text-color -moz-use-text-color;
+}
+.addres-icon{
+	background: none repeat scroll 0 0 #f50079;
+}
+.form-control:focus {
+	border-color: #f50079;
+}
+footer.footer{
+	border-top: 5px solid #f50079;
+}
+.chevron{
+	border: 1px solid #f50079;
+}
+.footer-content i{
+	color: #f50079;	
+}
+#contact-form label{
+  color: #f50079;
+}
+

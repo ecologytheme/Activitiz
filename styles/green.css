@@ -1,0 +1,52 @@
+/* -----------------------
+COLOR : GREEN 
+COLOR CODE: #27ae60
+------------------------- */
+.navbar-inverse .navbar-nav > .current > a, .navbar-inverse .navbar-nav > .current > a:hover, .navbar-inverse .navbar-nav > .current > a:focus {
+	color: #27ae60;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #27ae60;
+}
+#intro-button .standard-btn{
+	border: 2px solid #27ae60;	
+}
+.hvr-sweep-to-right:before{
+	background: #27ae60;
+}
+.about-icon{
+	background: #27ae60;
+}
+.progress-bar{
+	background-color: #27ae60;
+}
+.donation-amount{
+	color: #27ae60;
+}
+.comment-icon{
+	background: #27ae60;
+}
+.filter:hover, .filter.selected {
+	background: #27ae60;
+}
+.mega-hovertitle hr{
+	border-color: #27ae60 -moz-use-text-color -moz-use-text-color;
+}
+.addres-icon{
+	background: none repeat scroll 0 0 #27ae60;
+}
+.form-control:focus {
+	border-color: #27ae60;
+}
+footer.footer{
+	border-top: 5px solid #27ae60;
+}
+.chevron{
+	border: 1px solid #27ae60;
+}
+.footer-content i{
+	color: #27ae60;	
+}
+#contact-form label{
+  color: #27ae60;
+}

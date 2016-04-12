@@ -1,0 +1,52 @@
+/* -----------------------
+COLOR : MAGENDA 
+COLOR CODE: #8e44ad
+------------------------- */
+.navbar-inverse .navbar-nav > .current > a, .navbar-inverse .navbar-nav > .current > a:hover, .navbar-inverse .navbar-nav > .current > a:focus {
+	color: #8e44ad;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #8e44ad;
+}
+#intro-button .standard-btn{
+	border: 2px solid #8e44ad;	
+}
+.hvr-sweep-to-right:before{
+	background: #8e44ad;
+}
+.about-icon{
+	background: #8e44ad;
+}
+.progress-bar{
+	background-color: #8e44ad;
+}
+.donation-amount{
+	color: #8e44ad;
+}
+.comment-icon{
+	background: #8e44ad;
+}
+.filter:hover, .filter.selected {
+	background: #8e44ad;
+}
+.mega-hovertitle hr{
+	border-color: #8e44ad -moz-use-text-color -moz-use-text-color;
+}
+.addres-icon{
+	background: none repeat scroll 0 0 #8e44ad;
+}
+.form-control:focus {
+	border-color: #8e44ad;
+}
+footer.footer{
+	border-top: 5px solid #8e44ad;
+}
+.chevron{
+	border: 1px solid #8e44ad;
+}
+.footer-content i{
+	color: #8e44ad;	
+}
+#contact-form label{
+  color: #8e44ad;
+}

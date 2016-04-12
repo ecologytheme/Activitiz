@@ -1,0 +1,29 @@
+/* ==========================================================================
+	RESPONSIVE FIXES
+============================================================================= */
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+.event{width: 48%;}
+.chevron {float: right;}
+.about-text {width: 70%;}
+span.date, span.currency {float: none;}
+.donation-bar span {display: block;}
+}
+
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+	
+#intro-section{padding: 100px 0px 100px 0px;}
+#intro-section h3{line-height: 35px;}
+#blog, #causes{padding-bottom: 50px;}
+.donaite-button, .readmore-button{margin-bottom: 50px;}
+.event{width: 100%;}
+.footer-content {text-align: center;}
+.chevron {margin: 20px auto;}
+
+}

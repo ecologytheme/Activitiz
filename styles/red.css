@@ -1,0 +1,52 @@
+/* -----------------------
+COLOR : RED 
+COLOR CODE: #f62459
+------------------------- */
+.navbar-inverse .navbar-nav > .current > a, .navbar-inverse .navbar-nav > .current > a:hover, .navbar-inverse .navbar-nav > .current > a:focus {
+	color: #f62459;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #f62459;
+}
+#intro-button .standard-btn{
+	border: 2px solid #f62459;	
+}
+.hvr-sweep-to-right:before{
+	background: #f62459;
+}
+.about-icon{
+	background: #f62459;
+}
+.progress-bar{
+	background-color: #f62459;
+}
+.donation-amount{
+	color: #f62459;
+}
+.comment-icon{
+	background: #f62459;
+}
+.filter:hover, .filter.selected {
+	background: #f62459;
+}
+.mega-hovertitle hr{
+	border-color: #f62459 -moz-use-text-color -moz-use-text-color;
+}
+.addres-icon{
+	background: none repeat scroll 0 0 #f62459;
+}
+.form-control:focus {
+	border-color: #f62459;
+}
+footer.footer{
+	border-top: 5px solid #f62459;
+}
+.chevron{
+	border: 1px solid #f62459;
+}
+.footer-content i{
+	color: #f62459;	
+}
+#contact-form label{
+  color: #f62459;
+}

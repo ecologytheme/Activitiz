@@ -1,0 +1,52 @@
+/* -----------------------
+COLOR : ORANGE 
+COLOR CODE: #f39c12
+------------------------- */
+.navbar-inverse .navbar-nav > .current > a, .navbar-inverse .navbar-nav > .current > a:hover, .navbar-inverse .navbar-nav > .current > a:focus {
+	color: #f39c12;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #f39c12;
+}
+#intro-button .standard-btn{
+	border: 2px solid #f39c12;	
+}
+.hvr-sweep-to-right:before{
+	background: #f39c12;
+}
+.about-icon{
+	background: #f39c12;
+}
+.progress-bar{
+	background-color: #f39c12;
+}
+.donation-amount{
+	color: #f39c12;
+}
+.comment-icon{
+	background: #f39c12;
+}
+.filter:hover, .filter.selected {
+	background: #f39c12;
+}
+.mega-hovertitle hr{
+	border-color: #f39c12 -moz-use-text-color -moz-use-text-color;
+}
+.addres-icon{
+	background: none repeat scroll 0 0 #f39c12;
+}
+.form-control:focus {
+	border-color: #f39c12;
+}
+footer.footer{
+	border-top: 5px solid #f39c12;
+}
+.chevron{
+	border: 1px solid #f39c12;
+}
+.footer-content i{
+	color: #f39c12;	
+}
+#contact-form label{
+  color: #f39c12;
+}

@@ -1,0 +1,52 @@
+/* -----------------------
+COLOR : BLUE 
+COLOR CODE: #2980b9
+------------------------- */
+.navbar-inverse .navbar-nav > .current > a, .navbar-inverse .navbar-nav > .current > a:hover, .navbar-inverse .navbar-nav > .current > a:focus {
+	color: #2980b9;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #2980b9;
+}
+#intro-button .standard-btn{
+	border: 2px solid #2980b9;	
+}
+.hvr-sweep-to-right:before{
+	background: #2980b9;
+}
+.about-icon{
+	background: #2980b9;
+}
+.progress-bar{
+	background-color: #2980b9;
+}
+.donation-amount{
+	color: #2980b9;
+}
+.comment-icon{
+	background: #2980b9;
+}
+.filter:hover, .filter.selected {
+	background: #2980b9;
+}
+.mega-hovertitle hr{
+	border-color: #2980b9 -moz-use-text-color -moz-use-text-color;
+}
+.addres-icon{
+	background: none repeat scroll 0 0 #2980b9;
+}
+.form-control:focus {
+	border-color: #2980b9;
+}
+footer.footer{
+	border-top: 5px solid #2980b9;
+}
+.chevron{
+	border: 1px solid #2980b9;
+}
+.footer-content i{
+	color: #2980b9;	
+}
+#contact-form label{
+  color: #2980b9;
+}

@@ -1,0 +1,52 @@
+/* -----------------------
+COLOR : SLATE 
+COLOR CODE: #e5c41a
+------------------------- */
+.navbar-inverse .navbar-nav > .current > a, .navbar-inverse .navbar-nav > .current > a:hover, .navbar-inverse .navbar-nav > .current > a:focus {
+	color: #e5c41a;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #e5c41a;
+}
+#intro-button .standard-btn{
+	border: 2px solid #e5c41a;	
+}
+.hvr-sweep-to-right:before{
+	background: #e5c41a;
+}
+.about-icon{
+	background: #e5c41a;
+}
+.progress-bar{
+	background-color: #e5c41a;
+}
+.donation-amount{
+	color: #e5c41a;
+}
+.comment-icon{
+	background: #e5c41a;
+}
+.filter:hover, .filter.selected {
+	background: #e5c41a;
+}
+.mega-hovertitle hr{
+	border-color: #e5c41a -moz-use-text-color -moz-use-text-color;
+}
+.addres-icon{
+	background: none repeat scroll 0 0 #e5c41a;
+}
+.form-control:focus {
+	border-color: #e5c41a;
+}
+footer.footer{
+	border-top: 5px solid #e5c41a;
+}
+.chevron{
+	border: 1px solid #e5c41a;
+}
+.footer-content i{
+	color: #e5c41a;	
+}
+#contact-form label{
+  color: #e5c41a;
+}
